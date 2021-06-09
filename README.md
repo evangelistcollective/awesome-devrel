@@ -138,6 +138,8 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [CFP Land](https://www.cfpland.com/): Sends a weekly newsletter of CFPs and Tweets them about a month before they’re due. Also has a [large, filterable list of open CFPs](https://www.cfpland.com/conferences/), and a blog full of [speaker stories](https://www.cfpland.com/blog/).
 * [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking): A big open source list of conference speaking tips.
 * [Speaking.io](https://speaking.io/): Zach Holman’s collected tips for public speakers in tech.
+* [SeeCFP](https://seecfp.com/): CFP list and email notification.
+* [Tech Daily CFP](https://mailchi.mp/f2e4ba861211/techdailycfp): Sends a daily newsletter of CFPs.
 * [Tulu.la](https://tulu.la) - Curated list of tech events and open CFPs. Friendly community and speaker support champions. Community-driven.
 
 ## Other
