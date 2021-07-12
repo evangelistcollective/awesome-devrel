@@ -48,6 +48,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [jekyll](https://jekyllrb.com/): Jekyll is a popular, open source static site generator.
 * [gatsby](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps 
 * [middleman](https://middlemanapp.com): The static site generator behind [Slate](https://github.com/slatedocs/slate)
+* [Vercel](https://vercel.com): Deploy any static site (Next.js, Jekll, Hugo, Gatsby, etc) for free.
 
 ## Podcasting
 * [anchor.fm](https://anchor.fm/): Anchor is the easiest way to hear, share, and create audio worthy of your ears. Broadcast voice, mix in music from Spotify and Apple Music, and take call-ins from your listeners. All from your phone.
@@ -65,6 +66,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [calendly.com](https://calendly.com/): Say goodbye to phone and email tag for finding the perfect meeting time with Calendly. It's 100% free, super easy to use and you'll love our customer service.
 * [x.ai](https://x.ai/): AI scheduled meetings for smarter work days. The future is here.
 * [vyte.in](https://www.vyte.in/): Schedule meetings 10x faster
+* [calendso](https://calendso.com/): Open source Calendly
 
 ## Virtual Events
 
@@ -74,6 +76,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [Spatial.chat](https://spatial.chat/): Video chat conversations that recreate real-life social interactions
 * [Butter](https://butter.us/): Butter is a video conferencing tool that empowers facilitators to run interactive, buttery smooth online workshops.
 * [Other](https://www.g2.com/categories/virtual-event-platforms)
+* [Virtual Event Starter Kit](https://vercel.com/virtual-event-starter-kit): Free, open-source template using Next.js and Vercel
 
 ## Analytics and CRM
 * [Moesif Developer Relations Management](https://www.moesif.com/solutions/developer-relations): Understand API adoption and keep developers informed automatically.
@@ -88,6 +91,7 @@ Community-sourced tools for the DevRel industry. Brought to you by [The DevRel C
 * [raneto.com](http://raneto.com/): Markdown powered Knowledgebase for Nodejs
 * [docusaurus.io](https://v2.docusaurus.io/)
 * [MadCap Flare](https://www.madcapsoftware.com/products/flare/)
+* [Nextra](https://nextra.vercel.app/): Write docs with Markdown/MDX and Next.js
 
 ## API documentation
 * [swagger.io](https://swagger.io/): Swagger is the world’s largest framework of API developer tools for the OpenAPI Specification(OAS), enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
